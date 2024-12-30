@@ -1,4 +1,4 @@
-module github.com/stealthrocket/net
+module github.com/robherley/net
 
 go 1.21
 

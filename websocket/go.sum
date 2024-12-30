@@ -22,10 +22,10 @@ github.com/mattn/go-isatty v0.0.12/go.mod h1:cbi8OIDigv2wuxKPP5vlRcQ1OAZbq2CE4Ky
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/stealthrocket/net v0.1.2 h1:fxglKhsGrBKMQHiEZuiP2jKyg2WaledYi/G7ijaoAOQ=
-github.com/stealthrocket/net v0.1.2/go.mod h1:9a0HqAOSQobNQt/QNqbIFMZzxOOwOrXU+XxXyeiu98o=
-github.com/stealthrocket/net v0.1.3-0.20230609160731-df2bf0f7ac8b h1:bvxiFHMMgFGWNx/Bu03/wZUqoeVuM/yzA5f5oJL9kgk=
-github.com/stealthrocket/net v0.1.3-0.20230609160731-df2bf0f7ac8b/go.mod h1:VvoFod9pYC9mo+bEg2NQB/D+KVOjxfhZjZ5zyvozq7M=
+github.com/robherley/net v0.1.2 h1:fxglKhsGrBKMQHiEZuiP2jKyg2WaledYi/G7ijaoAOQ=
+github.com/robherley/net v0.1.2/go.mod h1:9a0HqAOSQobNQt/QNqbIFMZzxOOwOrXU+XxXyeiu98o=
+github.com/robherley/net v0.1.3-0.20230609160731-df2bf0f7ac8b h1:bvxiFHMMgFGWNx/Bu03/wZUqoeVuM/yzA5f5oJL9kgk=
+github.com/robherley/net v0.1.3-0.20230609160731-df2bf0f7ac8b/go.mod h1:VvoFod9pYC9mo+bEg2NQB/D+KVOjxfhZjZ5zyvozq7M=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
